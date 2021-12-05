@@ -1,0 +1,37 @@
+body{
+    background: #ffffff;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+img{
+    width: 130px;
+    height: 300px;
+    margin-left: 70px;
+}
+
+body #background{
+    text-align: center;
+}
+
+#mainNavbar {
+    background: #FFFF;
+
+}
+
+#mainNavbar .navbar-brand{
+    color: goldenrod;
+}
+
+#mainNavbar .nav-link{
+    color:black;
+}
+
+#mainNavbar .nav-link:hover{
+    color:goldenrod;
+}
+
+
+
+
+
